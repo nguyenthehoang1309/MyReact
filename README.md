@@ -22,4 +22,7 @@ Bài tập môn React
 Thực Hành
 [Làm Quen React](https://codesandbox.io/s/lamquenreact-55xf9p)
 [Thực Hành Props Sate](https://codesandbox.io/s/bai-th-props-sate-9s4qpp)
+[Bài Thực Hành 1](https://codesandbox.io/s/bai-thuc-hanh-1-xxvxt0)
+[Bài Thực Hành 2](https://codesandbox.io/s/bai-thuc-hanh-2-njkyi6)
+[Bài Thực Hành 3](https://codesandbox.io/s/bai-thuc-hanh-3-ifl786)
 [Dự Án Hoàn Chỉnh](https://codesandbox.io/s/duanhoanchinh-xdve8u)
