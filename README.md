@@ -18,6 +18,7 @@ Bài tập môn React
 [Bài 18](https://codesandbox.io/s/bai-18-9sr615)
 [Bài 19](https://codesandbox.io/s/bai-19-vvhyio)
 [Bài 20](https://codesandbox.io/s/bai-20-80fmm1)
+[Bài 21](https://codesandbox.io/s/bai-21-jddio3)
 Thực Hành
 [Làm Quen React](https://codesandbox.io/s/lamquenreact-55xf9p)
 [Thực Hành Props Sate](https://codesandbox.io/s/bai-th-props-sate-9s4qpp)
