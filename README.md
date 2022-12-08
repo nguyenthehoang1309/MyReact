@@ -10,7 +10,7 @@ Bài tập môn React
 [Bài 10](https://codepen.io/nguyenthehoang1309/pen/xxzqQZg)
 [Bài 11](https://codepen.io/nguyenthehoang1309/pen/RwJpqwQ)
 [Bài 12](https://codepen.io/nguyenthehoang1309/pen/PoapxPd)
-[Bài 13](https://codepen.io/nguyenthehoang1309/pen/gOKxZBE0)
+[Bài 13](https://codepen.io/nguyenthehoang1309/pen/gOKxZBE)
 [Bài 14](https://codepen.io/nguyenthehoang1309/pen/zYadbBQ)
 [Bài 15](https://codepen.io/nguyenthehoang1309/pen/eYKEXBx)
 [Bài 16](https://codepen.io/nguyenthehoang1309/pen/xxzXzoM)
