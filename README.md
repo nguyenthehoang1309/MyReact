@@ -16,7 +16,7 @@ Bài tập môn React
 [Bài 16](https://codepen.io/nguyenthehoang1309/pen/xxzXzoM)
 [Bài 17](https://codepen.io/nguyenthehoang1309/pen/qBKVNdv)
 [Bài 18](https://codesandbox.io/s/bai-18-9sr615)
-[Bài 19](https://codesandbox.io/s/bai-19-vvhyio)
+[Bài 19](https://codesandbox.io/s/bai-19-c8isgg)
 [Bài 20](https://codesandbox.io/s/bai-20-80fmm1)
 [Bài 21](https://codesandbox.io/s/bai-21-jddio3)
 Thực Hành
